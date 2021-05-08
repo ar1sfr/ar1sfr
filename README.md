@@ -1,7 +1,7 @@
 ### Hi everyone. I'm Aris 👋
 
 - 🔭 I'm currently Back End Developer at Telkom Indonesia.
-- ✨ When i'm not coding, i play my fav fame, Dota 2
+- ✨ When i'm not coding, i play my fav game, Dota 2
 - 🌱 I'm currently learning about DevOps, Infra Management, Docker, and many more...
 - 📫 How to reach me: email me, or you can Tweet me at [ar1sfr](https://twitter.com/ar1sfr) for fast response. <br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/ar1sfr?label=Follow&style=social)](https://twitter.com/ar1sfr)
